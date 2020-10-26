@@ -247,6 +247,10 @@ a.social:hover {
 }
 
 /* Experience Section A */
+#exp-a {
+  margin-bottom: 2rem;
+}
+
 #exp-a h2 {
   font-size: 1.8rem;
 }
